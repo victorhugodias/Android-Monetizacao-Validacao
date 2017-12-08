@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ATJohn.iml" filepath="$PROJECT_DIR$/ATJohn.iml" />
+      <module fileurl="file://C:\Users\victo\Desktop\validacaoEpropagandaAndroid\ATJohn.iml" filepath="C:\Users\victo\Desktop\validacaoEpropagandaAndroid\ATJohn.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\victo\Desktop\validacaoEpropagandaAndroid\app\app.iml" filepath="C:\Users\victo\Desktop\validacaoEpropagandaAndroid\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validacaoEpropagandaAndroid.iml" filepath="$PROJECT_DIR$/validacaoEpropagandaAndroid.iml" />
     </modules>
   </component>
 </project>
